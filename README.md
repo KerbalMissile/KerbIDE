@@ -139,9 +139,7 @@ When reporting bugs, include:
 
 ## Links
 
-- **GitHub**: https://github.com/yourusername/KerbIDE
-- **KSP Forum Thread**: [Link]
-- **Discord**: [Link]
+- **GitHub**: https://github.com/KerbalMissile/KerbIDE
 
 ## Thanks
 
@@ -151,3 +149,4 @@ Thanks to the KSP modding community for being awesome and giving feedback!
 
 
 Made with ❤️ for the KSP community
+
