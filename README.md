@@ -49,7 +49,7 @@ We will have more later on these are just the first ones we'll be adding in.
 
 ```bash
 # Download the code
-git clone https://github.com/yourusername/KerbIDE.git
+git clone https://github.com/KerbalMissile/KerbIDE.git
 cd KerbIDE
 
 # Install the stuff it needs
@@ -150,5 +150,6 @@ Thanks to the KSP modding community for being awesome and giving feedback!
 
 
 Made with ❤️ for the KSP community
+
 
 
