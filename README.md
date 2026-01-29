@@ -11,7 +11,7 @@ KerbIDE is a code editor like VSCode but specifically made for Kerbal Space Prog
 ### Languages it supports
 - **C#** - For making actual KSP mods
 - **C++** - For other stuff
-- **Python** - For scripting stuff
+- **Python** - For other stuff, like UI's outside KSP, etc.
 - **.cfg files** - Part configs with useful highlighting
 - **KerboScript** - If you use kOS
 
@@ -150,6 +150,7 @@ Thanks to the KSP modding community for being awesome and giving feedback!
 
 
 Made with ❤️ for the KSP community
+
 
 
 
